@@ -1,0 +1,10 @@
+Index,Selected_Features
+TVC_DJI_15_15min,"Close_Lag_1, Close_Lag_4"
+TVC_DXY_15_15min,"Close_Lag_1, Close_Lag_2, Close_Lag_5, Close_Lag_4, Close_Lag_3, Close_Lag_7, Close_Lag_6"
+ATHEX_DLY_FTSE_15_15min,"Close_Lag_1, Close_Lag_3, Close_Lag_2, Close_Lag_4"
+NASDAQ_DLY_NDX_15_15min,"Close_Lag_1, Close_Lag_2, Close_Lag_3, Close_Lag_4, Close_Lag_6, Close_Lag_5, Close_Lag_7"
+TVC_NI225_15_15min,"Close_Lag_1, Close_Lag_2"
+NSE_NIFTY_15_15min,"Close_Lag_1, Close_Lag_3"
+SSE_DLY_000001_15_15min,"Close_Lag_1, Close_Lag_2, Close_Lag_3, Close_Lag_7, Close_Lag_4, Close_Lag_5, Close_Lag_6"
+TVC_SPX_15_15min,"Close_Lag_1, Close_Lag_3"
+EASYMARKETS_DAXEUR_15_15min,"Close_Lag_1, Close_Lag_2, Close_Lag_3, Close_Lag_7, Close_Lag_5, Close_Lag_6, Close_Lag_4"

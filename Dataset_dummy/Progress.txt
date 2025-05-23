@@ -1,0 +1,10 @@
+ATR - 14 days - 
+MACD - RSI - ATR - can be computed
+
+open price dropped from further analysis
+applied soft mode of Haar wavelets from scikit-image to denoise the close price of the index
+min-max normalization for feature scaling
+80-20 -- train to test
+in training data :- 80-20 -- train to validation
+
+8e1d6c4ebe98c858eb5308d6c6f9387e 
